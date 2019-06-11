@@ -1,0 +1,7 @@
+build
+untarred
+issue.tar
+
+*.swp
+.venv/
+*.pyc

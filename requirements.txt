@@ -1,0 +1,6 @@
+pyopenssl
+gitpython
+docker
+behave
+pyhamcrest
+pyaml
